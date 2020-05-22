@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.49bf5843.chunk.js",
-    "main.js.map": "/static/js/main.49bf5843.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.68524cce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.68524cce.js.map",
-    "static/css/2.97be3157.chunk.css": "/static/css/2.97be3157.chunk.css",
-    "static/js/2.f61aa308.chunk.js": "/static/js/2.f61aa308.chunk.js",
-    "static/js/2.f61aa308.chunk.js.map": "/static/js/2.f61aa308.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.97dbdf973e74d0d334ab031ac097445d.js": "/precache-manifest.97dbdf973e74d0d334ab031ac097445d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.97be3157.chunk.css.map": "/static/css/2.97be3157.chunk.css.map",
-    "static/js/2.f61aa308.chunk.js.LICENSE.txt": "/static/js/2.f61aa308.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.js": "/auth-with-context-api/static/js/main.49bf5843.chunk.js",
+    "main.js.map": "/auth-with-context-api/static/js/main.49bf5843.chunk.js.map",
+    "runtime-main.js": "/auth-with-context-api/static/js/runtime-main.f8290f78.js",
+    "runtime-main.js.map": "/auth-with-context-api/static/js/runtime-main.f8290f78.js.map",
+    "static/css/2.6af6aaf9.chunk.css": "/auth-with-context-api/static/css/2.6af6aaf9.chunk.css",
+    "static/js/2.b027fa21.chunk.js": "/auth-with-context-api/static/js/2.b027fa21.chunk.js",
+    "static/js/2.b027fa21.chunk.js.map": "/auth-with-context-api/static/js/2.b027fa21.chunk.js.map",
+    "index.html": "/auth-with-context-api/index.html",
+    "precache-manifest.fcb7847309ea09dceeb5086ace28d852.js": "/auth-with-context-api/precache-manifest.fcb7847309ea09dceeb5086ace28d852.js",
+    "service-worker.js": "/auth-with-context-api/service-worker.js",
+    "static/css/2.6af6aaf9.chunk.css.map": "/auth-with-context-api/static/css/2.6af6aaf9.chunk.css.map",
+    "static/js/2.b027fa21.chunk.js.LICENSE.txt": "/auth-with-context-api/static/js/2.b027fa21.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/auth-with-context-api/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.68524cce.js",
-    "static/css/2.97be3157.chunk.css",
-    "static/js/2.f61aa308.chunk.js",
+    "static/js/runtime-main.f8290f78.js",
+    "static/css/2.6af6aaf9.chunk.css",
+    "static/js/2.b027fa21.chunk.js",
     "static/js/main.49bf5843.chunk.js"
   ]
 }
