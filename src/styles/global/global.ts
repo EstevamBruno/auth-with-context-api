@@ -2,8 +2,6 @@ import { createGlobalStyle } from "styled-components";
 import 'font-awesome/css/font-awesome.css'
 
 const GlobalStyle = createGlobalStyle`
-  @import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap");
-
   * {
     margin: 0;
     padding: 0;
